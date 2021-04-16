@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am Joshua Lisoski!
+![Twitter Follow](https://img.shields.io/twitter/follow/ShaneTayler528?label=Follow%20Me&style=social)
 
 <!--
 **JLisoski/JLisoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
