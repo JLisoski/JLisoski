@@ -20,12 +20,24 @@ I am in my last term of my Computer Science degree at UNLV and will be graduatin
   
 ---
 
-📘 Currently Reading Through...  
+📘 Currently Reading Through... 📘  
 - *Cracking the Coding Interview* by Gayle Laakmann McDowell 
 - *Learning PHP, MySQL & JavaScript* by Robin Nixon  
 - *JavaScript Patterns* by Stoyan Stefanov  
 
 ---
+
+📓 Currently Preparing For... 📓  
+- CompTIA A+ Exam
+- CompTIA Security+ Exam
+
+---
+
+🔭 Currently Working On ... 🔭  
+- Incorporating the Android Accessibility Magnification Library into the Quorum Programming Language for my Senior Design Class (CS 472).
+
+---
+
 <!--
 **JLisoski/JLisoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
