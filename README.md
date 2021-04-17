@@ -18,7 +18,12 @@ I am in my last term of my Computer Science degree at UNLV and will be graduatin
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLisoski&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JLisoski&repo=JLisoski&show_owner=true)](https://github.com/JLisoski/JLisoski)  
+---
+
+📘 Currently Reading Through...  
+- *Cracking the Coding Interview* by Gayle Laakmann McDowell 
+- *Learning PHP, MySQL & JavaScript* by Robin Nixon  
+- *JavaScript Patterns* by Stoyan Stefanov  
 
 ---
 <!--
