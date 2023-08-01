@@ -1,10 +1,7 @@
 ### Hi there 👋, I am Joshua Lisoski!
 ---
-![Twitter Follow](https://img.shields.io/twitter/follow/ShaneTayler528?label=Follow%20Me&style=social)
 
----
-
-Over the course of my degree program, I have gained experience with the following programming languages: C++, C, x86, MIPS, Java, and Python; with C++ being what I am most comfortable with at the moment. I am working on improving my Python and Java skills, as well as preparing in my free time to take the CompTIA Security+ and A+ exams. I take all computer science book recommendations and add them to my terribly long to be read list. I am a lifelong learner and I enjoy that I can learn something new every day with computer programming.
+I am currently over a year into Credit One Bank's Information Management Leadership Program, and on the Vituralization Team. We are a VMware house and I am aggresively learning all the VMware Products and Tools that we utilize in our environmnet; as well as studying to take the VCP-DCV certification exam. 
 
 ---
 
@@ -23,20 +20,17 @@ Over the course of my degree program, I have gained experience with the followin
 ---
 
 📘 Currently Reading Through... 📘  
-- *Cracking the Coding Interview* by Gayle Laakmann McDowell 
-- *Learning PHP, MySQL & JavaScript* by Robin Nixon  
-- *JavaScript Patterns* by Stoyan Stefanov  
+- *Docker: Up and Running* by Kane, Sean P. 
 
 ---
 
 📓 Currently Preparing For... 📓  
-- CompTIA A+ Exam
-- CompTIA Security+ Exam
+- VMware Certified Professional - Data Center Virtualiation (VCP-DCV)
 
 ---
 
 🔭 Currently Working On ... 🔭  
-- Incorporating the Android Accessibility Magnification Library into the Quorum Programming Language for my Senior Design Class (CS 472).
+- Standing up VMware Aria Automatin and Aria Automation Config POC boxes
 
 ---
 
